@@ -8,6 +8,7 @@ body {
     background: linear-gradient(#011627, #011b30); 
     height: 100%;
     width: 100%;
+    background-color: #011627;
 }
 .card {
     background-color: #2a6a82;
